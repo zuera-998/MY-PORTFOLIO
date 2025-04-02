@@ -1,60 +1,51 @@
-Data Analyst |
-[zueramuhammed@gmail.com] | [zuera alabi](www.linkedin.com/in/zuera-alabi-4b85a7282) | [Your GitHub] | [Your Portfolio Website]
+<!-- GitHub Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Zuera-998&color=blue)
+
+
+# ZUERA ALABI OMOBOLANLE  
+### Data Entry specialist || Python Developer || Data Visualization Expert || Data Analyst
+
+I leverage Python, SQL, Excel, and Power BI to analyze complex datasets, uncover trends, and develop data-driven solutions that optimize decision-making. With a strong focus on efficiency and accuracy, I transform raw data into compelling visual narratives that provide actionable insights, helping businesses and stakeholders make informed strategic choices.
 
 ---
 
-## About Me
-I am a passionate data analyst and data scientist with expertise in Python, SQL, Power BI, and machine learning. I enjoy solving complex problems with data-driven insights and building interactive visualizations to communicate findings effectively.
+## Featured Projects  
+
+### Airbnb Market Analysis  
+**[View Project](https://github.com/Sammydcode/Portfolio/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb)**  
+**Description:** Conducted an in-depth analysis of **share investments across 2,000 companies**, identifying stock trends, risk factors, and optimal investment strategies.  
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
 ---
 
-## Skills
-- *Programming:* Python, SQL, R  
-- *Data Analysis & Visualization:* Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
-- *Machine Learning:* Scikit-learn, TensorFlow, Keras  
-- *Databases:* MySQL, PostgreSQL, MongoDB  
-- *Cloud & Big Data:* AWS, Google Cloud, Hadoop  
+## Skills & Technologies  
+
+- **Programming:** Python, SQL  
+- **Data Analysis & BI:** Power BI, Excel  
+- **Machine Learning:** Scikit-Learn  
+- **Databases:** MySQL  
+- **Version Control:** Git, GitHub  
 
 ---
 
-## Projects
+## Let's Connect  
 
-### [Project Title 1]
-*Description:* Briefly describe what this project does, the problem it solves, and the technologies used.  
-*Technologies:* Python, Pandas, Matplotlib  
-[GitHub Repo](#) | [Live Demo](#)
-
-### [Project Title 2]
-*Description:* Briefly describe this project, its motivation, and key takeaways.  
-*Technologies:* SQL, Power BI  
-[GitHub Repo](#) | [Live Demo](#)
-
-### [Project Title 3]
-*Description:* A summary of your project, its impact, and challenges faced.  
-*Technologies:* Machine Learning, Scikit-learn, TensorFlow  
-[GitHub Repo](#) | [Live Demo](#)
+- **Email:** [sammyonamen@gmail.com](sammyonamen@gmail.com)
+- **LinkedIn:** [Amadasun Samuel](https://www.linkedin.com/in/amadasun-samuel-a76292327)  
+- **GitHub:** [Sammy Reels Tech](https://github.com/Sammydcode)  
+- **Portfolio Website:** [Amadasun Samuel Osaruonamen](https://sammydcode.github.io/Portfolio)  
 
 ---
 
-## Experience
-### [Job Title] - [Company Name]
-*Duration:* [Start Date] - [End Date]  
-- Bullet points describing your responsibilities and achievements  
+## GitHub Stats  
 
-### [Job Title] - [Company Name]
-*Duration:* [Start Date] - [End Date]  
-- Bullet points describing your responsibilities and achievements  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sammydcode&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammydcode&theme=dark" width="48%" />
+</p>
 
----
-
-## Certifications
-- [Certification Name] - [Issuing Organization] (Year)  
-- [Certification Name] - [Issuing Organization] (Year)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammydcode&layout=compact&theme=dark" width="48%" />
+</p>
 
 ---
-
-## Contact
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-💻 GitHub: [Your GitHub Profile]  
-🌐 Portfolio: [Your Website]
