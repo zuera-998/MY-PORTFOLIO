@@ -29,9 +29,9 @@ I leverage Python, SQL, Excel, and Power BI to analyze complex datasets, uncover
 
 ## Let's Connect  
 
-- **Email:** [sammyonamen@gmail.com](sammyonamen@gmail.com)
-- **LinkedIn:** [Amadasun Samuel](https://www.linkedin.com/in/amadasun-samuel-a76292327)  
-- **GitHub:** [Sammy Reels Tech](https://github.com/Sammydcode)  
+- **Email:** [zueramuhammed@gmail.com](zueramuhammed@gmail.com)
+- **LinkedIn:** [zuera alabi](www.linkedin.com/in/zuera-alabi-4b85a7282)  
+- **GitHub:** [zuera alabi](https://github.com/zuera-998)  
 - **Portfolio Website:** [Amadasun Samuel Osaruonamen](https://sammydcode.github.io/Portfolio)  
 
 ---
