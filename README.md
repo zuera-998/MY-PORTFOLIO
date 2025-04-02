@@ -12,17 +12,16 @@ I leverage Python, SQL, Excel, and Power BI to analyze complex datasets, uncover
 ## Featured Projects  
 
 ### Airbnb Market Analysis  
-**[View Project](https://github.com/Sammydcode/Portfolio/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb)**  
-**Description:** Conducted an in-depth analysis of **share investments across 2,000 companies**, identifying stock trends, risk factors, and optimal investment strategies.  
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+**[View Project](https://github.com/zuera-998/MY-PORTFOLIO/commit/7d3b9518e740d332c872a4fb50453395c35fe136)**  
+**Description:** Conducted an in-depth analysis of Airbnb listings in New York City, exploring pricing trends, neighborhood group, and location-based patterns. Leveraged Python for data cleaning, analysis, and visualization to uncover insights that help hosts optimize pricing strategies and assist travelers in making informed booking decisions..  
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn ,Power Bi, Ms Excel 
 
 ---
 
 ## Skills & Technologies  
 
 - **Programming:** Python, SQL  
-- **Data Analysis & BI:** Power BI, Excel  
-- **Machine Learning:** Scikit-Learn  
+- **Data Analysis & BI:** Power BI, Excel    
 - **Databases:** MySQL  
 - **Version Control:** Git, GitHub  
 
