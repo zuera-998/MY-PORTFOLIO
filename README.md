@@ -32,7 +32,6 @@ I leverage Python, SQL, Excel, and Power BI to analyze complex datasets, uncover
 - **Email:** [zueramuhammed@gmail.com](zueramuhammed@gmail.com)
 - **LinkedIn:** [zuera alabi](www.linkedin.com/in/zuera-alabi-4b85a7282)  
 - **GitHub:** [zuera alabi](https://github.com/zuera-998)  
-- **Portfolio Website:** [Amadasun Samuel Osaruonamen](https://sammydcode.github.io/Portfolio)  
 
 ---
 
